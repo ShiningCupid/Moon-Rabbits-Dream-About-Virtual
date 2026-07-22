@@ -15,7 +15,7 @@
 ------------------------------------------------------*/
 :root {
     /* The text that appear in top, leave it blank ("") if you dont want any */
-    --custom-text: "TSUKINO MITO";
+    --custom-text: "Mochi's corner";
 
     /* General Colors */
     --border-color: #da4a60;
@@ -27,7 +27,7 @@
     --bg-gradient1: #e297b2;
     --bg-gradient2: #c0b4d5;
     --bg-gradient3: #54b5de;
-    --bg-image: url("https://user-images.githubusercontent.com/79029257/132885766-58a204cf-4941-4143-a3d2-7d9eec948c2c.png"); /* Write the image url, example url("your url") [none is default]*/
+    --bg-image: url("https://i.pinimg.com/736x/7a/68/90/7a6890b007495eaf2b3a34c602b1d3dc.jpg"); /* Write the image url, example url("your url") [none is default]*/
     --bg-opacity: 0.3; /* Value in numbers from 0.0 to 1.0 */
     --bg-blur: 0px; /* Value in px */
 
